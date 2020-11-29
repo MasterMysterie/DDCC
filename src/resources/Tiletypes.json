@@ -1,0 +1,38 @@
+[
+[
+
+    {
+        "name" : "Grass",
+	"texture" : "sprites/grass.png",
+	"cost" : 10,
+	"animated" : false
+
+    },
+    
+    {
+        "name" : "Sand",
+	"texture" : "sprites/sand.png",
+	"cost" : 20,
+	"animated" : false
+
+    }
+    , 
+    
+    {
+        "name" : "Asphalt",
+	"texture" : "sprites/asphalt.png",
+	"cost" : 50,
+	"animated" : false
+
+    },
+
+    {
+	"name" : "Water",
+	"texture" : ["water/water_1.png", "water/water_2.png", "water/water_3.png", "water/water_4.png"],
+	"cost" : 100,
+	"animated" : true
+
+    }
+
+],
+]
